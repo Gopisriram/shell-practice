@@ -1,3 +1,2 @@
-#!bin/bash/
-echo "Good Evening"
-echo "its raining"
+#!bin/bash
+echo "good evening"
